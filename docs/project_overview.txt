@@ -1,0 +1,4 @@
+N100 Financial Intelligence Platform
+
+Objective:
+Create a financial intelligence platform to collect, process and analyze financial data

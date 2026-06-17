@@ -1,0 +1,7 @@
+Python 3.x
+VS Code
+Git
+GitHub
+Jupyter Notebook
+Pandas
+NumPy
